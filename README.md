@@ -1,3 +1,9 @@
+## 运行
+```
+npm i
+node app.js
+```
+
 ## 前言
 之前初学`node`的时候，有用爬虫爬过一些磁力链接
 详情见[羞羞的node爬虫](https://segmentfault.com/a/1190000009598820)
