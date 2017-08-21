@@ -12,8 +12,7 @@
 4. superagent-proxy  （使用代理）
 5. fs  （读写文件）
 
-其中`cheerio`, `superagent`的具体用法见我之前的 [羞羞的node爬虫](https://segmentfault.com/
-a/1190000009598820)
+其中`cheerio`, `superagent`的具体用法见我之前的 [羞羞的node爬虫](https://segmentfault.com/a/1190000009598820)
 不过之前初学，代码写得很难看就对了
 
 ## 爬取代理ip
@@ -303,7 +302,7 @@ downloadImg()
 ![](http://old5ohki5.bkt.clouddn.com/pc6.png)
 
 ## 后记
-github代码： [bilibili壁纸站爬虫]()
+github代码： [bilibili壁纸站爬虫](https://github.com/cheeseKun/bilibili-wallpaper-crawler)
 里面有一些必要注释
 有4个可以跑的js
 1. ./aboutIp/getIp.js （用来抓并存有用的代理ip）
